@@ -25,6 +25,13 @@ public class PythagoreanTheorem extends ConsoleProgram {
 		println("C = " + pythag);
 		
 		
-		/* You fill this in */
+		/* I need to find decent music not just to code to,
+		 * but to study and read and do everything to, 
+		 * because coding is easier to do with decent music than reading and studying is.
+		 * 
+		 * 
+		 * 
+		 * Inverting colours while coding makes things easier.*/
+		
 	}
 }
